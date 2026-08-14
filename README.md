@@ -1,5 +1,4 @@
-# Jacobian-2D-rigid-proof
-Resolution of the 2D Jacobian Conjecture via Differential Annihilation
+# Jacobian pAdic Weyl Proof
+p-Adic Filtration Rigidity in the Weyl Algebra: A Non-Circular Proof of the 2D Jacobian Conjecture
 
-A traditional geometric compactification by translating the topological behavior of affine curves into a rigid-analytic framework.
-https://github.com/toandreyras/Jacobian-2D-rigid-proof/wiki/Resolution-of-the-2D-Jacobian-Conjecture-via-Differential-Annihilation
+https://github.com/toandreyras/Jacobian-2D-rigid-proof/wiki/A-Non%E2%80%90Circular-Proof-of-the-2D-Jacobian-Conjecture
